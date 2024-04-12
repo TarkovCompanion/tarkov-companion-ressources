@@ -1,0 +1,330 @@
+{
+    "map": "Reserve",
+    "version": "0.0.1",
+    "private": true,
+    "elements": [
+        {
+            "UUID": 738284481,
+            "description": "Underground",
+            "width": 721,
+            "height": 1218,
+            "x": 1557,
+            "y": 1097,
+            "floors": [
+                {
+                    "UUID": 874839726,
+                    "image":"reserve-underground-1.png",
+                    "active": true,
+                    "z_index": 9,
+                    "description": "Ground floor"
+                },
+                {
+                    "UUID": 375778380,
+                    "image":"reserve-underground-2.png",
+                    "z_index": 11,
+                    "description": "Bunker"
+                }
+            ]
+        },
+        {
+            "UUID": 201293339,
+            "description": "Black Pond",
+            "width": 90,
+            "height": 265,
+            "x": 2198,
+            "y": 1348,
+            "floors": [
+                {
+                    "UUID": 358727935,
+                    "image":"reserve-black-pond-1.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 720537648,
+                    "image":"reserve-black-pond-2.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 232159598,
+                    "image":"reserve-black-pond-3.png",
+                    "description": "3rd Floor"
+                },
+                {
+                    "UUID": 357354421,
+                    "image":"reserve-black-pond-4.png",
+                    "description": "4th Floor"
+                },
+                {
+                    "UUID": 237519852,
+                    "image":"reserve-black-pond-5.png",
+                    "description": "5th Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 663013817,
+            "description": "White Pond",
+            "width": 265,
+            "height": 90,
+            "x": 1860,
+            "y": 1709,
+            "floors": [
+                {
+                    "UUID": 817302782,
+                    "image":"reserve-white-pond-1.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 527627920,
+                    "image":"reserve-white-pond-2.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 248364676,
+                    "image":"reserve-white-pond-3.png",
+                    "description": "3rd Floor"
+                },
+                {
+                    "UUID": 853705858,
+                    "image":"reserve-white-pond-4.png",
+                    "description": "4th Floor"
+                },
+                {
+                    "UUID": 400243641,
+                    "image":"reserve-white-pond-5.png",
+                    "description": "5th Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 846078161,
+            "description": "Black Bishop",
+            "width": 360,
+            "height": 164,
+            "x": 1851,
+            "y": 1086,
+            "floors": [
+                {
+                    "UUID": 336381155,
+                    "image":"reserve-black-bishop-1.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 116295718,
+                    "image":"reserve-black-bishop-2.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 624062970,
+                    "image":"reserve-black-bishop-3.png",
+                    "description": "3rd Floor"
+                }  
+            ]
+        },
+        {
+            "UUID": 628863679,
+            "description": "White Bishop",
+            "width": 194,
+            "height": 88,
+            "x": 1550,
+            "y": 1146,
+            "floors": [
+                {
+                    "UUID": 422788886,
+                    "image":"reserve-white-bishop-1.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 383681409,
+                    "image":"reserve-white-bishop-2.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 239645949,
+                    "image":"reserve-white-bishop-3.png",
+                    "description": "3rd Floor"
+                }  
+            ]
+        },
+        {
+            "UUID": 614316972,
+            "description": "Dome",
+            "width": 133,
+            "height": 218,
+            "x": 1559,
+            "y": 2217,
+            "floors": [
+                {
+                    "UUID": 305277539,
+                    "image":"reserve-dome-1.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 508693698,
+                    "image":"reserve-dome-2.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 885616097,
+                    "image":"reserve-dome-3.png",
+                    "description": "3rd Floor"
+                },
+                {
+                    "UUID": 902243898,
+                    "image":"reserve-dome-4.png",
+                    "description": "4th Floor"
+                },
+                {
+                    "UUID": 569541427,
+                    "image":"reserve-dome-5.png",
+                    "description": "5th Floor"
+                }  
+            ]
+        },
+        {
+            "UUID": 845371984,
+            "description": "Queen",
+            "width": 261,
+            "height": 242,
+            "x": 1489,
+            "y": 1312,
+            "floors": [
+                {
+                    "UUID": 262074432,
+                    "image":"reserve-queen-1.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 112987248,
+                    "image":"reserve-queen-2.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 344829939,
+                    "image":"reserve-queen-3.png",
+                    "description": "3rd Floor"
+                },
+                {
+                    "UUID": 803687924,
+                    "image":"reserve-queen-4.png",
+                    "description": "4th Floor"
+                } 
+            ]
+        },
+        {
+            "UUID": 334019909,
+            "description": "Black Knight",
+            "width": 134,
+            "height": 226,
+            "x": 1201,
+            "y": 1297,
+            "floors": [
+                {
+                    "UUID": 806579258,
+                    "image":"reserve-black-knight-1.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 575003584,
+                    "image":"reserve-black-knight-2.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 568992625,
+                    "image":"reserve-black-knight-3.png",
+                    "description": "3rd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 377273709,
+            "description": "White Knight",
+            "width": 133,
+            "height": 185,
+            "x": 835,
+            "y": 1293,
+            "floors": [
+                {
+                    "UUID": 300801608,
+                    "image":"reserve-white-knight-1.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 810477471,
+                    "image":"reserve-white-knight-2.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 886906180,
+                    "image":"reserve-white-knight-3.png",
+                    "description": "3rd Floor"
+                },
+                {
+                    "UUID": 560569630,
+                    "image":"reserve-white-knight-4.png",
+                    "description": "4th Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 156573811,
+            "description": "White Rook",
+            "width": 306,
+            "height": 250,
+            "x": 194,
+            "y": 782,
+            "floors": [
+                {
+                    "UUID": 705714671,
+                    "image":"reserve-white-rook-1.png",
+                    "active": true,
+                    "description": "Train Rail Floor"
+                },
+                {
+                    "UUID": 754347729,
+                    "image":"reserve-white-rook-2.png",
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 674345156,
+                    "image":"reserve-white-rook-3.png",
+                    "description": "Scafolding"
+                }
+            ]
+        },
+        {
+            "UUID": 826737410,
+            "description": "East Underground",
+            "width": 567,
+            "height": 730,
+            "x": 569,
+            "y": 571,
+            "floors": [
+                {
+                    "UUID": 478064287,
+                    "image":"reserve-east-underground-1.png",
+                    "active": true,
+                    "description": "Ground Floor"
+                },
+                {
+                    "UUID": 427884381,
+                    "image":"reserve-east-underground-2.png",
+                    "description": "Underground Hangar"
+                },
+                {
+                    "UUID": 149624234,
+                    "image":"reserve-east-underground-3.png",
+                    "description": "Basement"
+                }
+            ]
+        }
+    ]
+}

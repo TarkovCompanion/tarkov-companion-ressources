@@ -1,0 +1,889 @@
+{
+  "map": "Factory",
+  "author": "Vinnydiehl, Treestn",
+  "mapImagePath": "factory_main_floor_mono.png",
+  "width": 3043,
+  "height": 3215,
+  "version": "0.0.1",
+  "private": true,
+  "highLevelElements": [
+    {
+      "name": "Loot",
+      "active": false,
+      "imagePath": "icon-model-loot-2.png",
+      "elements": [
+        {
+          "name": "Valuable",
+          "imagePath": "diamond.png",
+          "height": 35,
+          "width": 35,
+          "active": true,
+          "centered": true,
+          "listElements": [
+          ]
+        },
+        {
+          "name": "Ammo Box",
+          "imagePath": "icon-loot-ammo-box-2.png",
+          "height": 64,
+          "width": 40,
+          "active": false,
+          "listElements": []
+        },
+        {
+          "name": "Cache",
+          "imagePath": "icon-loot-cache-2.png",
+          "height": 64,
+          "width": 40,
+          "active": false,
+          "listElements": []
+        },
+        {
+          "name": "Cash Register",
+          "imagePath": "icon-loot-cash-register-2.png",
+          "height": 64,
+          "width": 40,
+          "active": false,
+          "listElements": []
+        },
+        {
+          "name": "Computer",
+          "imagePath": "icon-loot-computer-2.png",
+          "height": 64,
+          "width": 40,
+          "active": false,
+          "listElements": []
+        },
+        {
+          "name": "Dead Scav",
+          "imagePath": "icon-loot-dead-scav-2.png",
+          "height": 64,
+          "width": 40,
+          "active": false,
+          "listElements": [
+            {
+              "id": 8053977280,
+              "image": "",
+              "x": 1063,
+              "y": 2160
+            }
+          ]
+        },
+        {
+          "name": "Drawer",
+          "imagePath": "icon-loot-drawer-2.png",
+          "height": 64,
+          "width": 40,
+          "active": false,
+          "listElements": [
+            {
+              "id": 7823609019,
+              "image": "",
+              "floor": "790290322",
+              "x": 714,
+              "y": 1444
+            }
+          ]
+        },
+        {
+          "name": "Duffle-bag",
+          "imagePath": "icon-loot-duffle-bag-2.png",
+          "height": 64,
+          "width": 40,
+          "active": false,
+          "listElements": [
+            {
+              "id": 6137137189,
+              "image": "",
+              "floor": "297407984",
+              "x": 699,
+              "y": 1014
+            },
+            {
+              "id": 1379618967,
+              "image": "",
+              "floor": "297407984",
+              "x": 633,
+              "y": 1094
+            },
+            {
+              "id": 6588790203,
+              "image": "",
+              "floor": "297407984",
+              "x": 594,
+              "y": 1176
+            }
+          ]
+        },
+        {
+          "name": "Grenade Box",
+          "imagePath": "icon-loot-grenade-box-2.png",
+          "height": 64,
+          "width": 40,
+          "active": false,
+          "listElements": [
+            {
+              "id": 1728483802,
+              "image": "",
+              "floor": "76515527",
+              "x": 1828,
+              "y": 1766
+            },
+            {
+              "id": 4839355539,
+              "image": "",
+              "floor": "76515527",
+              "x": 2126,
+              "y": 1944
+            }
+          ]
+        },
+        {
+          "name": "Jacket",
+          "imagePath": "icon-loot-jacket-2.png",
+          "height": 64,
+          "width": 40,
+          "active": false,
+          "listElements": [
+            {
+              "id": 1638399131,
+              "image": "",
+              "x": 1167,
+              "y": 1095
+            },
+            {
+              "id": 7515017261,
+              "image": "",
+              "floor": "297407984",
+              "x": 512,
+              "y": 1109
+            },
+            {
+              "id": 6551792015,
+              "image": "",
+              "x": 2290,
+              "y": 21
+            },
+            {
+              "id": 8583435241,
+              "image": "",
+              "floor": "790290322",
+              "x": 717,
+              "y": 1327
+            }
+          ]
+        },
+        {
+          "name": "Med Bag",
+          "imagePath": "icon-loot-med-bag-2.png",
+          "height": 64,
+          "width": 40,
+          "active": false,
+          "listElements": [
+            {
+              "id": 5029571504,
+              "image": "",
+              "floor": "521140991",
+              "x": 2176,
+              "y": 3565
+            },
+            {
+              "id": 8320170309,
+              "image": "",
+              "floor": "521140991",
+              "x": 2144,
+              "y": 3560
+            }
+          ]
+        },
+        {
+          "name": "Med Box",
+          "imagePath": "icon-loot-med-box-2.png",
+          "height": 64,
+          "width": 40,
+          "active": false,
+          "listElements": []
+        },
+        {
+          "name": "Safe",
+          "imagePath": "icon-loot-safe-2.png",
+          "height": 64,
+          "width": 40,
+          "active": false,
+          "listElements": [
+            {
+              "id": 2892433205,
+              "image": "",
+              "floor": "790290322",
+              "x": 583,
+              "y": 1283
+            }
+          ]
+        },
+        {
+          "name": "Toolbox",
+          "imagePath": "icon-loot-tootbox-2.png",
+          "height": 64,
+          "width": 40,
+          "active": false,
+          "listElements": [
+            {
+              "id": 7502689989,
+              "image": "",
+              "x": 1732,
+              "y": 1031
+            },
+            {
+              "id": 5057593218,
+              "image": "",
+              "x": 1829,
+              "y": 1034
+            },
+            {
+              "id": 2170836717,
+              "image": "",
+              "floor": "297407984",
+              "x": 578,
+              "y": 1197
+            }
+          ]
+        },
+        {
+          "name": "Weapon Box",
+          "imagePath": "icon-loot-weapon-box-2.png",
+          "height": 64,
+          "width": 40,
+          "active": true,
+          "listElements": [
+            {
+              "id": 3852413966,
+              "image": "",
+              "x": 1029,
+              "y": 1263
+            },
+            {
+              "id": 6094768296,
+              "image": "",
+              "x": 1560,
+              "y": 2196
+            },
+            {
+              "id": 6347466844,
+              "image": "",
+              "floor": "521140991",
+              "x": 1756,
+              "y": 1718
+            },
+            {
+              "id": 9086113380,
+              "image": "",
+              "x": 2150,
+              "y": 834
+            }
+          ]
+        },
+        {
+          "name": "Wood Crate",
+          "imagePath": "icon-loot-wood-crate-2.png",
+          "height": 64,
+          "width": 40,
+          "active": false,
+          "listElements": [
+            {
+              "id": 2411997831,
+              "image": "",
+              "floor": "76515527",
+              "x": 2356,
+              "y": 1787
+            },
+            {
+              "id": 9804139779,
+              "image": "",
+              "x": 1947,
+              "y": 2236
+            }
+          ]
+        },
+        {
+          "name": "Wooden Crate",
+          "imagePath": "icon-loot-wooden-crate-2.png",
+          "height": 64,
+          "width": 40,
+          "active": false,
+          "listElements": [
+            {
+              "id": 1294985434,
+              "image": "",
+              "x": 1123,
+              "y": 180
+            },
+            {
+              "id": 1020807679,
+              "image": "",
+              "x": 1058,
+              "y": 408
+            },
+            {
+              "id": 8314366653,
+              "image": "",
+              "floor": "297407984",
+              "x": 705,
+              "y": 856
+            },
+            {
+              "id": 4891857539,
+              "image": "",
+              "floor": "297407984",
+              "x": 708,
+              "y": 1011
+            },
+            {
+              "id": 6408712182,
+              "image": "",
+              "floor": "297407984",
+              "x": 525,
+              "y": 1088
+            },
+            {
+              "id": 9114235951,
+              "image": "",
+              "floor": "297407984",
+              "x": 497,
+              "y": 1109
+            },
+            {
+              "id": 7381448163,
+              "image": "",
+              "floor": "297407984",
+              "x": 670,
+              "y": 1452
+            },
+            {
+              "id": 9347772321,
+              "image": "",
+              "floor": "297407984",
+              "x": 633,
+              "y": 1485
+            },
+            {
+              "id": 3910450024,
+              "image": "",
+              "floor": "297407984",
+              "x": 764,
+              "y": 1729
+            },
+            {
+              "id": 3195113964,
+              "image": "",
+              "floor": "790290322",
+              "x": 651,
+              "y": 1917
+            },
+            {
+              "id": 5981007922,
+              "image": "",
+              "floor": "790290322",
+              "x": 686,
+              "y": 1948
+            },
+            {
+              "id": 4691361033,
+              "image": "",
+              "floor": "297407984",
+              "x": 666,
+              "y": 3508
+            },
+            {
+              "id": 9910572032,
+              "image": "",
+              "x": 564,
+              "y": 1746
+            },
+            {
+              "id": 5153223514,
+              "image": "",
+              "x": 830,
+              "y": 2175
+            },
+            {
+              "id": 2345816264,
+              "image": "",
+              "x": 888,
+              "y": 2168
+            },
+            {
+              "id": 9268688986,
+              "image": "",
+              "x": 991,
+              "y": 2156
+            },
+            {
+              "id": 5122633274,
+              "image": "",
+              "x": 1039,
+              "y": 2168
+            },
+            {
+              "id": 5703462835,
+              "image": "",
+              "x": 1297,
+              "y": 2193
+            },
+            {
+              "id": 2856361973,
+              "image": "",
+              "x": 1163,
+              "y": 2217
+            },
+            {
+              "id": 2789296821,
+              "image": "",
+              "x": 1089,
+              "y": 869
+            },
+            {
+              "id": 3273403105,
+              "image": "",
+              "x": 1053,
+              "y": 867
+            },
+            {
+              "id": 7689550300,
+              "image": "",
+              "x": 1055,
+              "y": 979
+            },
+            {
+              "id": 3893058188,
+              "image": "",
+              "x": 1344,
+              "y": 872
+            },
+            {
+              "id": 3333567634,
+              "image": "",
+              "x": 1476,
+              "y": 872
+            },
+            {
+              "id": 1295789820,
+              "image": "",
+              "x": 1504,
+              "y": 947
+            },
+            {
+              "id": 9971011443,
+              "image": "",
+              "floor": "521140991",
+              "x": 2280,
+              "y": 1302
+            },
+            {
+              "id": 4865540198,
+              "image": "",
+              "floor": "521140991",
+              "x": 2244,
+              "y": 1316
+            },
+            {
+              "id": 4803527946,
+              "image": "",
+              "floor": "76515527",
+              "x": 1841,
+              "y": 1776
+            },
+            {
+              "id": 6825818750,
+              "image": "",
+              "floor": "76515527",
+              "x": 1763,
+              "y": 1991
+            },
+            {
+              "id": 8159433849,
+              "image": "",
+              "floor": "76515527",
+              "x": 3535,
+              "y": 3571
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Enemies",
+      "active": false,
+      "imagePath": "icon-model-enemies-2.png",
+      "elements": [
+        {
+          "name": "Sniper Scav",
+          "imagePath": "icon-sniper-scav-2.png",
+          "height": 64,
+          "width": 40,
+          "active": false,
+          "listElements": []
+        },
+        {
+          "name": "Boss",
+          "imagePath": "icon-boss-2.png",
+          "height": 64,
+          "width": 40,
+          "active": false,
+          "listElements": [
+            {
+              "id": 540339803,
+              "image": "",
+              "description": "Tagilla",
+              "x": 322,
+              "y": 1858
+            },
+            {
+              "id": 145071007,
+              "image": "",
+              "description": "Tagilla",
+              "x": 1748,
+              "y": 1246
+            },
+            {
+              "id": 517362985,
+              "image": "",
+              "description": "Tagilla",
+              "floor": "297407984",
+              "x": 704,
+              "y": 1162
+            },
+            {
+              "id": 660973853,
+              "image": "",
+              "description": "Tagilla",
+              "floor": "76515527",
+              "x": 1914,
+              "y": 1704
+            }
+          ]
+        },
+        {
+          "name": "Cultist",
+          "imagePath": "icon-cultist-2.png",
+          "height": 64,
+          "width": 40,
+          "active": false,
+          "listElements": []
+        }
+      ]
+    },
+    {
+      "name": "Extraction",
+      "active": true,
+      "imagePath": "icon-model-pmc-extract-2.png",
+      "elements": [
+        {
+          "name": "PMC",
+          "imagePath": "icon-pmc-extract-2.png",
+          "height": 64,
+          "width": 40,
+          "active": true,
+          "listElements": [
+            {
+              "id": 741372700,
+              "image": "",
+              "description": "Gate 3",
+              "x": 45,
+              "y": 379
+            },
+            {
+              "id": 210047664,
+              "image": "",
+              "description": "Gate 0",
+              "x": 271,
+              "y": 3186
+            },
+            {
+              "id": 900503934,
+              "image": "",
+              "description": "Med Tent Gates",
+              "x": 2915,
+              "y": 2117
+            },
+            {
+              "id": 923176431,
+              "image": "",
+              "floor": "76515527",
+              "description": "Cellars",
+              "x": 2218,
+              "y": 30
+            }
+          ]
+        },
+        {
+          "name": "SCAV",
+          "imagePath": "icon-scav-extract-2.png",
+          "height": 64,
+          "width": 40,
+          "active": false,
+          "listElements": [
+            {
+              "id": 252099185,
+              "image": "",
+              "floor": "790290322",
+              "description": "Office Window",
+              "x": 575,
+              "y": 1331
+            },
+            {
+              "id": 923176431,
+              "image": "",
+              "floor": "76515527",
+              "description": "Camera Bunker Door",
+              "x": 604,
+              "y": 3579
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spawn",
+      "active": false,
+      "imagePath": "icon-model-spawn-2.png",
+      "elements": [
+        {
+          "name": "Spawn",
+          "imagePath": "icon-spawn-2.png",
+          "height": 64,
+          "width": 40,
+          "active": false,
+          "listElements": [
+            {
+              "id": 654945711,
+              "image": "",
+              "x": 40,
+              "y": 2375
+            },
+            {
+              "id": 697894623,
+              "image": "",
+              "x": 276,
+              "y": 2732
+            },
+            {
+              "id": 238566887,
+              "image": "",
+              "x": 900,
+              "y": 304
+            },
+            {
+              "id": 704539256,
+              "image": "",
+              "x": 1729,
+              "y": 130
+            },
+            {
+              "id": 357294178,
+              "image": "",
+              "x": 2807,
+              "y": 63
+            },
+            {
+              "id": 523310331,
+              "image": "",
+              "x": 2402,
+              "y": 685
+            },
+            {
+              "id": 833885821,
+              "image": "",
+              "floor": "521140991",
+              "x": 2189,
+              "y": 1999
+            },
+            {
+              "id": 797864200,
+              "image": "",
+              "x": 1386,
+              "y": 2342
+            },
+            {
+              "id": 462722905,
+              "image": "",
+              "floor": "76515527",
+              "x": 1588,
+              "y": 1234
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quests",
+      "active": true,
+      "imagePath": "icon-model-quest-2.png",
+      "elements": [
+        {
+          "name": "Quests",
+          "imagePath": "icon-quest-2.png",
+          "height": 64,
+          "width": 40,
+          "active": true,
+          "listElements": [
+            {
+              "id": 448923220,
+              "active": false,
+              "questId": "59674eb386f774539f14813a",
+              "image": "",
+              "floor": "340796699",
+              "x": 607,
+              "y": 766
+            },
+            {
+              "id": 127536753,
+              "active": false,
+              "questId": "59675ea386f77414b32bded2",
+              "image": "",
+              "x": 1059,
+              "y": 2148
+            },
+            {
+              "id": 412787720,
+              "active": false,
+              "questId": "5a68669a86f774255929b4d4",
+              "image": "",
+              "floor": "790290322",
+              "x": 676,
+              "y": 1173
+            },
+            {
+              "id": 48985337,
+              "active": false,
+              "questId": "597a0e5786f77426d66c0636",
+              "image": "",
+              "floor": "790290322",
+              "x": 632,
+              "y": 1135
+            },
+            {
+              "id": 719612810,
+              "active": false,
+              "questId": "5ac345dc86f774288030817f",
+              "image": "",
+              "x": 2660,
+              "y": 355
+            },
+            {
+              "id": 346346169,
+              "active": false,
+              "questId": "5ac345dc86f774288030817f",
+              "image": "",
+              "x": 1821,
+              "y": 164
+            },
+            {
+              "id": 535025268,
+              "active": false,
+              "questId": "5ac3477486f7741d651d6885",
+              "image": "",
+              "x": 2679,
+              "y": 2152
+            },
+            {
+              "id": 577155653,
+              "active": false,
+              "questId": "5ac3477486f7741d651d6885",
+              "image": "",
+              "x": 240,
+              "y": 2937
+            },
+            {
+              "id": 634931719,
+              "active": false,
+              "questId": "5ac3477486f7741d651d6885",
+              "image": "",
+              "x": 304,
+              "y": 336
+            },
+            {
+              "id": 745518037,
+              "active": false,
+              "questId": "5ac3477486f7741d651d6885",
+              "image": "",
+              "floor": "76515527",
+              "x": 2247,
+              "y": 190
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Misc.",
+      "active": true,
+      "imagePath": "key.png",
+      "elements": [
+        {
+          "name": "Locked Door",
+          "imagePath": "key.png",
+          "height": 35,
+          "width": 35,
+          "active": true,
+          "centered": true,
+          "listElements": [
+            {
+              "id": 539009913,
+              "image": "",
+              "description": "Factory emergency exit key",
+              "x": 2681,
+              "y": 2171
+            },
+            {
+              "id": 630247502,
+              "image": "",
+              "description": "Factory emergency exit key",
+              "x": 243,
+              "y": 2950
+            },
+            {
+              "id": 679112694,
+              "image": "",
+              "floor": "76515527",
+              "description": "Factory emergency exit key",
+              "x": 2244,
+              "y": 212
+            },
+            {
+              "id": 626929278,
+              "image": "",
+              "floor": "790290322",
+              "description": "Factory emergency exit key",
+              "x": 724,
+              "y": 1070
+            },
+            {
+              "id": 853752137,
+              "image": "",
+              "description": "Pumping station front door key",
+              "x": 1894,
+              "y": 742
+            },
+            {
+              "id": 460226833,
+              "image": "",
+              "description": "Pumping station back door key",
+              "x": 1704,
+              "y": 762
+            }
+          ]
+        },
+        {
+          "name": "Lever",
+          "imagePath": "lever.png",
+          "height": 35,
+          "width": 35,
+          "active": true,
+          "centered": true,
+          "listElements": [
+          ]
+        }
+      ]
+    }
+  ]
+}

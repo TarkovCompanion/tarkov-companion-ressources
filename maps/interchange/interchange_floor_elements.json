@@ -1,0 +1,33 @@
+{
+    "map": "Interchange",
+    "version": "0.0.1",
+    "private": true,
+    "elements": [
+        {
+            "UUID": 226332226,
+            "description": "Mall",
+            "width": 743,
+            "height": 1212,
+            "x": 889,
+            "y": 268,
+            "floors": [
+                {
+                    "UUID": 470549444,
+                    "image":"interchange-first-floor.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 190930731,
+                    "image":"interchange-second-floor.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 776837422,
+                    "image":"interchange-ground-floor.png",
+                    "description": "Underground Parking"
+                }
+            ]
+        }
+    ]
+}

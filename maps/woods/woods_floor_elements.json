@@ -1,0 +1,49 @@
+{
+    "map": "Woods",
+    "version": "0.0.1",
+    "private": true,
+    "elements": [
+        {
+            "UUID": 313786145,
+            "description": "ZB-014",
+            "width": 132,
+            "height": 255,
+            "x": 771,
+            "y": 4430,
+            "floors": [
+                {
+                    "UUID": 174492905,
+                    "image":"woods-zb-014-overground.png",
+                    "active": true,
+                    "description": "Ground Floor"
+                },
+                {
+                    "UUID": 806783706,
+                    "image":"woods-zb-014-underground.png",
+                    "description": "Bunker"
+                }
+            ]
+        },
+        {
+            "UUID": 800434506,
+            "description": "ZB-016",
+            "width": 132,
+            "height": 256,
+            "x": 4860,
+            "y": 4234,
+            "floors": [
+                {
+                    "UUID": 749250835,
+                    "image":"woods-zb-016-overground.png",
+                    "active": true,
+                    "description": "Ground Floor"
+                },
+                {
+                    "UUID": 734810553,
+                    "image":"woods-zb-016-underground.png",
+                    "description": "Bunker"
+                }
+            ]
+        }
+    ]
+}

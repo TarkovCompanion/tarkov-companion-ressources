@@ -1,0 +1,56 @@
+{
+    "map": "Factory",
+    "version": "0.0.1",
+    "private": true,
+    "elements": [
+        {
+            "UUID": 37382002,
+            "description": "Underground",
+            "width": 1821,
+            "height": 2762,
+            "x": 568,
+            "y": 4,
+            "floors": [
+                {
+                    "UUID": 521140991,
+                    "image":"factory_first_underground_floor_mono.png",
+                    "active": true,
+                    "z_index": 9,
+                    "description": "Ground Floor"
+                },
+                {
+                    "UUID": 76515527,
+                    "image":"factory_underground_floor_mono.png",
+                    "z_index": 11,
+                    "description": "Underground"
+                }
+            ]
+        },
+        {
+            "UUID": 584637989,
+            "description": "Main",
+            "width": 1098,
+            "height": 1461,
+            "x": 80,
+            "y": 562,
+            "floors": [
+                {
+                    "UUID": 297407984,
+                    "image":"factory_first_floor_mono.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 340796699,
+                    "image":"factory_second_floor_mono.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 790290322, 
+                    "image":"factory_third_floor_mono.png",
+                    "description": "3rd Floor"
+                }
+            ]
+        }
+    ]
+}

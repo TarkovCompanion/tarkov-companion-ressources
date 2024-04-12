@@ -1,0 +1,782 @@
+{
+    "map": "Streets Of Tarkov",
+    "version": "0.0.1",
+    "private": true,
+    "elements": [
+        {
+            "UUID": 449282152,
+            "description": "B5",
+            "width": 204,
+            "height": 279,
+            "x": 1503,
+            "y": 772,
+            "floors": [
+                {
+                    "UUID": 342552686,
+                    "image":"5-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 695002929,
+                    "image":"5-2nd.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 544651991,
+                    "image":"5-3rd.png",
+                    "description": "3rd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 148941721,
+            "description": "B3",
+            "width": 385,
+            "height": 376,
+            "x": 984,
+            "y": 1297,
+            "floors": [
+                {
+                    "UUID": 955485202,
+                    "image":"3-1st-2.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 733567710,
+                    "image":"3-2nd.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 692152340,
+            "description": "A10",
+            "width": 125,
+            "height": 213,
+            "x": 755,
+            "y": 2062,
+            "floors": [
+                {
+                    "UUID": 958482071,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/A10-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 477317130,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/A10-2nd.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 679645371,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/A10-4th.png",
+                    "description": "4th Floor"
+                },
+                {
+                    "UUID": 380125078,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/A10-5th.png",
+                    "description": "5th Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 117647144,
+            "description": "A6",
+            "width": 123,
+            "height": 364,
+            "x": 595,
+            "y": 2370,
+            "floors": [
+                {
+                    "UUID": 774483776,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/A6-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 517190697,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/A6-2nd.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 497126450,
+            "description": "A5",
+            "width": 82,
+            "height": 204,
+            "x": 757,
+            "y": 2330,
+            "floors": [
+                {
+                    "UUID": 831273168,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/A5-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 137712194,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/A5-2nd.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 670931427,
+            "description": "A2",
+            "width": 117,
+            "height": 82,
+            "x": 528,
+            "y": 2796,
+            "floors": [
+                {
+                    "UUID": 517007660,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/A2-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 839811627,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/A2-2nd.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 726933590,
+            "description": "D3",
+            "width": 149,
+            "height": 135,
+            "x": 1022,
+            "y": 4450,
+            "floors": [
+                {
+                    "UUID": 817905494,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/D3-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 467923513,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/D3-2nd.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 304541624,
+            "description": "A2",
+            "width": 265,
+            "height": 300,
+            "x": 1108,
+            "y": 2444,
+            "floors": [
+                {
+                    "UUID": 797505493,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/corner-pub-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 963242686,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/corner-pub-2nd.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 575345067,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/corner-pub-3rd.png",
+                    "description": "3rd Floor"
+                },
+                {
+                    "UUID": 584682412,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/corner-pub-4th.png",
+                    "description": "4th Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 620345424,
+            "description": "Cells",
+            "width": 400,
+            "height": 200,
+            "x": 986,
+            "y": 3024,
+            "floors": [
+                {
+                    "UUID": 114083998,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/cells-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 183682399,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/cells-3rd.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 752579898,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/cells-2nd.png",
+                    "description": "3rd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 779148853,
+            "description": "Prestigio Cafe",
+            "width": 315,
+            "height": 239,
+            "x": 1435,
+            "y": 2984,
+            "floors": [
+                {
+                    "UUID": 896107856,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/prestigio-cafe-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 403013714,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/prestigio-cafe-2nd-2.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 103056115,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/prestigio-cafe-3rd-2.png",
+                    "description": "3rd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 985932835,
+            "description": "Post Office",
+            "width": 137,
+            "height": 541,
+            "x": 1617,
+            "y": 2132,
+            "floors": [
+                {
+                    "UUID": 950166770,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/post-office-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 197389923,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/post-office-2nd.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 912915077,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/post-office-3rd.png",
+                    "description": "3rd Floor"
+                },
+                {
+                    "UUID": 195622748,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/post-office-4th.png",
+                    "description": "4th Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 183390525,
+            "description": "Pharmacy",
+            "width": 137,
+            "height": 222,
+            "x": 1617,
+            "y": 2599,
+            "floors": [
+                {
+                    "UUID": 483469399,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/pharmacy-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 839400247,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/pharmacy-2nd.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 274210105,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/pharmacy-3rd.png",
+                    "description": "4th Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 622130718,
+            "description": "House Department",
+            "width": 82,
+            "height": 138,
+            "x": 1412,
+            "y": 2518,
+            "floors": [
+                {
+                    "UUID": 164403580,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/house-department-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 313308857,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/house-department-2nd.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 327356868,
+            "description": "Construction",
+            "width": 151,
+            "height": 155,
+            "x": 637,
+            "y": 3512,
+            "floors": [
+                {
+                    "UUID": 480685707,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/construction-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 114102903,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/construction-2nd.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 679979533,
+            "description": "Concordia Basement",
+            "width": 785,
+            "height": 456,
+            "x": 260,
+            "y": 3852,
+            "floors": [
+                {
+                    "UUID": 423454777,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/concordia-underground-1st.png",
+                    "active": true,
+                    "description": "Ground Floor",
+                    "z_index": 9
+                },
+                {
+                    "UUID": 821067081,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/concordia-underground-basement.png",
+                    "description": "Basement Floor",
+                    "z_index": 11
+                }
+            ]
+        },
+        {
+            "UUID": 797011100,
+            "description": "Concordia South-West",
+            "width": 634,
+            "height": 404,
+            "x": 218,
+            "y": 3910,
+            "floors": [
+                {
+                    "UUID": 894846526,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/concordia-south-west-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 703163323,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/concordia-south-west-2nd.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 532375047,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/concordia-south-west-3rd.png",
+                    "description": "3rd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 640421151,
+            "description": "Concordia East",
+            "width": 129,
+            "height": 282,
+            "x": 1011,
+            "y": 3865,
+            "floors": [
+                {
+                    "UUID": 101890753,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/concordia-east-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 503995700,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/concordia-east-2nd.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 923788596,
+            "description": "Grocery",
+            "width": 391,
+            "height": 208,
+            "x": 901,
+            "y": 3509,
+            "floors": [
+                {
+                    "UUID": 351335532,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/grocery-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 930994520,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/grocery-2nd.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 192631067,
+            "description": "Lexos Area South",
+            "width": 78,
+            "height": 110,
+            "x": 1539,
+            "y": 3797,
+            "floors": [
+                {
+                    "UUID": 546639700,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/lexos-south-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 970943223,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/lexos-south-2nd.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 970055820,
+            "description": "Lexos Area East",
+            "width": 147,
+            "height": 355,
+            "x": 1517,
+            "y": 3409,
+            "floors": [
+                {
+                    "UUID": 599555540,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/lexos-east-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 278256364,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/lexos-east-2nd.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 967465873,
+            "description": "Lexos Area West",
+            "width": 115,
+            "height": 372,
+            "x": 1304,
+            "y": 3390,
+            "floors": [
+                {
+                    "UUID": 517896415,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/lexos-west-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 235276855,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/lexos-west-2nd.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 182175528,
+            "description": "Cinema South Corner",
+            "width": 92,
+            "height": 110,
+            "x": 3015,
+            "y": 4535,
+            "floors": [
+                {
+                    "UUID": 574750256,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/cinema-south-corner-east-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 456025106,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/cinema-south-corner-east-2nd.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 336715924,
+            "description": "Cinema South Corner",
+            "width": 39,
+            "height": 55,
+            "x": 2957,
+            "y": 4719,
+            "floors": [
+                {
+                    "UUID": 191134858,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/cinema-south-corner-south-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 708960595,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/cinema-south-corner-south-2nd.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 323062602,
+            "description": "Cinema",
+            "width": 397,
+            "height": 403,
+            "x": 2880,
+            "y": 4030,
+            "floors": [
+                {
+                    "UUID": 746378780,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/cinema-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 327058348,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/cinema-2nd.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 410117188,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/cinema-3rd.png",
+                    "description": "3rd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 417292908,
+            "description": "West Office",
+            "width": 186,
+            "height": 86,
+            "x": 2939,
+            "y": 3108,
+            "floors": [
+                {
+                    "UUID": 733569225,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/west-office-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 623044408,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/west-office-2nd.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 898726722,
+            "description": "Pinewood",
+            "width": 724,
+            "height": 898,
+            "x": 2045,
+            "y": 1997,
+            "floors": [
+                {
+                    "UUID": 699500536,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/pinewood-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 496030874,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/pinewood-2nd.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 443997961,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/pinewood-3rd.png",
+                    "description": "3rd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 546497435,
+            "description": "Klimov Shopping Mall",
+            "width": 1041,
+            "height": 592,
+            "x": 2012,
+            "y": 1189,
+            "floors": [
+                {
+                    "UUID": 588331137,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/klimov-shopping-mall-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 314341915,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/klimov-shopping-mall-2nd.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 170855935,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/klimov-shopping-mall-3rd.png",
+                    "description": "3rd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 825682531,
+            "description": "South Hotel",
+            "width": 162,
+            "height": 235,
+            "x": 2971,
+            "y": 3403,
+            "floors": [
+                {
+                    "UUID": 231112774,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/south-hotel-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 504254298,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/south-hotel-2nd.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 785995669,
+            "description": "Marked Hotel",
+            "width": 151,
+            "height": 166,
+            "x": 3104,
+            "y": 3211,
+            "floors": [
+                {
+                    "UUID": 726251934,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/marked-hotel-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 783393329,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/marked-hotel-2nd.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 620692808,
+            "description": "Abandoned Factory",
+            "width": 474,
+            "height": 246,
+            "x": 2460,
+            "y": 3387,
+            "floors": [
+                {
+                    "UUID": 678717517,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/abandoned-factory-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 550880972,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/abandoned-factory-3rd.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 142461308,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/abandoned-factory-4th.png",
+                    "description": "3rd Floor"
+                },
+                {
+                    "UUID": 190214299,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/abandoned-factory-2nd.png",
+                    "description": "Basement"
+                }
+            ]
+        },
+        {
+            "UUID": 588954875,
+            "description": "Underpass",
+            "width": 358,
+            "height": 319,
+            "x": 1720,
+            "y": 1634,
+            "floors": [
+                {
+                    "UUID": 816103756,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/underpass-1st.png",
+                    "active": true,
+                    "description": "Ground Floor"
+                },
+                {
+                    "UUID": 129235874,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/underpass-basement.png",
+                    "description": "Underground Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 5889548275,
+            "description": "Bank",
+            "width": 123,
+            "height": 71,
+            "x": 2235,
+            "y": 4537,
+            "floors": [
+                {
+                    "UUID": 8161031756,
+                    "image":"ank-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 1292335874,
+                    "image":"ank-2nd.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 68634148275,
+            "description": "Meseum",
+            "width": 54,
+            "height": 91,
+            "x": 408,
+            "y": 2051,
+            "floors": [
+                {
+                    "UUID": 13653243241,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/meseum-1st.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 56456312322,
+                    "image":"https://eft-companion.s3.amazonaws.com/maps/streets/floors/meseum-2nd.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,314 @@
+{
+    "map": "",
+    "author": "",
+    "mapImagePath": "",
+    "width": 0,
+    "height": 0,
+    "version": "0.0.1",
+    "private": true,
+    "highLevelElements": [
+        {
+          "name": "Loot",
+          "active": false,
+          "imagePath": "icon-model-loot.png",
+          "elements": [
+            {
+              "name": "Valuable",
+              "imagePath": "diamond.png",
+              "height": 35,
+              "width": 35,
+              "active": true,
+              "centered": true,
+              "listElements": [
+              ]
+            },
+            {
+              "name": "Ammo Box",
+              "imagePath": "icon-loot-ammo-box.png",
+              "height": 64,
+              "width": 40,
+              "active": false,
+              "listElements": [
+                
+              ]
+            },
+            {
+              "name": "Cache",
+              "imagePath": "icon-loot-cache-2.png",
+              "height": 64,
+              "width": 40,
+              "active": false,
+              "listElements": [
+                
+              ]
+            },
+            {
+              "name": "Cash Register",
+              "imagePath": "icon-loot-cash-register.png",
+              "height": 64,
+              "width": 40,
+              "active": false,
+              "listElements": [
+                
+              ]
+            },
+            {
+              "name": "Computer",
+              "imagePath": "icon-loot-computer.png",
+              "height": 64,
+              "width": 40,
+              "active": false,
+              "listElements": [
+                          
+              ]
+            },
+            {
+              "name": "Duffle-bag",
+              "imagePath": "icon-loot-duffle-bag.png",
+              "height": 64,
+              "width": 40,
+              "active": false,
+              "listElements": [
+   
+              ]
+            },
+            {
+              "name": "Dead Scav",
+              "imagePath": "icon-loot-dead-scav.png",
+              "height": 64,
+              "width": 40,
+              "active": false,
+              "listElements": [
+                
+              ]
+            },
+            {
+              "name": "Drawer",
+              "imagePath": "icon-loot-drawer.png",
+              "height": 64,
+              "width": 40,
+              "active": false,
+              "listElements": [
+                
+              ]
+            },
+            {
+              "name": "Grenade Box",
+              "imagePath": "icon-loot-grenade-box.png",
+              "height": 64,
+              "width": 40,
+              "active": false,
+              "listElements": [
+                
+              ]
+            },
+            {
+              "name": "Jacket",
+              "imagePath": "icon-loot-jacket.png",
+              "height": 64,
+              "width": 40,
+              "active": false,
+              "listElements": [
+                
+              ]
+            },
+            {
+              "name": "Med Bag",
+              "imagePath": "icon-loot-med-bag.png",
+              "height": 64,
+              "width": 40,
+              "active": false,
+              "listElements": [
+                
+              ]
+            },
+            {
+              "name": "Med Box",
+              "imagePath": "icon-loot-med-box.png",
+              "height": 64,
+              "width": 40,
+              "active": false,
+              "listElements": [
+                
+              ]
+            },
+            {
+              "name": "Safe",
+              "imagePath": "icon-loot-safe.png",
+              "height": 64,
+              "width": 40,
+              "active": false,
+              "listElements": [
+                
+              ]
+            },
+            {
+              "name": "Toolbox",
+              "imagePath": "icon-loot-tootbox.png",
+              "height": 64,
+              "width": 40,
+              "active": false,
+              "listElements": [
+                
+              ]
+            },
+            {
+              "name": "Weapon Box",
+              "imagePath": "icon-loot-weapon-box.png",
+              "height": 64,
+              "width": 40,
+              "active": false,
+              "listElements": [
+                
+              ]
+            },
+            {
+              "name": "Wood Crate",
+              "imagePath": "icon-loot-wood-crate.png",
+              "height": 64,
+              "width": 40,
+              "active": false,
+              "listElements": [
+                
+              ]
+            },
+            {
+              "name": "Wooden Crate",
+              "imagePath": "icon-loot-wooden-crate.png",
+              "height": 64,
+              "width": 40,
+              "active": false,
+              "listElements": [
+                
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Enemies",
+          "active": false,
+          "imagePath": "icon-model-enemies.png",
+          "elements": [
+            {
+              "name": "Sniper Scav",
+              "imagePath": "icon-sniper-scav.png",
+              "height": 64,
+              "width": 40,
+              "active": false,
+              "listElements": [
+                
+              ]
+            },
+            {
+              "name": "Boss",
+              "imagePath": "icon-boss.png",
+              "height": 64,
+              "width": 40,
+              "active": false,
+              "listElements": [
+                
+              ]
+            },
+            {
+              "name": "Cultist",
+              "imagePath": "icon-cultist.png",
+              "height": 64,
+              "width": 40,
+              "active": false,
+              "listElements": [
+                
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Extraction",
+          "active": true,
+          "imagePath": "icon-model-pmc-extract.png",
+          "elements": [
+            {
+              "name": "PMC",
+              "imagePath": "icon-pmc-extract.png",
+              "height": 64,
+              "width": 40,
+              "active": true,
+              "listElements": [
+
+              ]
+            },
+            {
+              "name": "SCAV",
+              "imagePath": "icon-scav-extract.png",
+              "height": 64,
+              "width": 40,
+              "active": false,
+              "listElements": [
+
+              ]
+            }
+          ]
+        },
+        {
+            "name": "Spawn",
+            "active": false,
+            "imagePath": "icon-model-spawn.png",
+            "elements": [
+              {
+                "name": "Spawn",
+                "imagePath": "icon-spawn.png",
+                "height": 64,
+                "width": 40,
+                "active": false,
+                "listElements": [
+
+                ]
+              }
+            ]
+        },
+        {
+            "name": "Quests",
+            "active": true,
+            "imagePath": "icon-model-quest.png",
+            "elements": [
+              {
+                "name": "Quests",
+                "imagePath": "icon-quest.png",
+                "height": 64,
+                "width": 40,
+                "active": true,
+                "listElements": [
+
+                ]
+              }
+            ]
+        },
+        {
+          "name": "Misc.",
+          "active": true,
+          "imagePath": "",
+          "elements": [
+            {
+              "name": "Locked Door",
+              "imagePath": "key.png",
+              "height": 35,
+              "width": 35,
+              "active": true,
+              "centered": true,
+              "listElements": [
+
+              ]
+            },
+            {
+              "name": "Lever",
+              "imagePath": "lever.png",
+              "height": 35,
+              "width": 35,
+              "active": true,
+              "centered": true,
+              "listElements": [
+              ]
+            }
+          ]
+        }
+    ]
+  }

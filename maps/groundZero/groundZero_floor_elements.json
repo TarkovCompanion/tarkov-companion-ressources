@@ -1,0 +1,161 @@
+{
+    "map": "Ground Zero",
+    "version": "0.0.1",
+    "private": true,
+    "elements": [
+        {
+            "UUID": 390137025,
+            "description": "Skydive",
+            "width": 502,
+            "height": 484,
+            "x": 349,
+            "y": 471,
+            "floors": [
+                {
+                    "UUID": 229354097,
+                    "image":"skyside_2nd_floor.png",
+                    "active": true,
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 318189605,
+                    "image":"skyside_3rd_floor.png",
+                    "description": "3rd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 390137025,
+            "description": "Empire",
+            "width": 346,
+            "height": 305,
+            "x": 1063,
+            "y": 1435,
+            "floors": [
+                {
+                    "UUID": 115194359,
+                    "image":"empire_3rd_floor.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 584421634,
+                    "image":"empire_5th_floor.png",
+                    "description": "3rd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 916140318,
+            "description": "Fusion",
+            "width": 263,
+            "height": 687,
+            "x": 616,
+            "y": 1211,
+            "floors": [
+                {
+                    "UUID": 744560107,
+                    "image":"fusion_1st_floor.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 292536690,
+                    "image":"fusion_2nd_floor.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 374619531,
+            "description": "Office",
+            "width": 42,
+            "height": 73,
+            "x": 865,
+            "y": 1949,
+            "floors": [
+                {
+                    "UUID": 671931767,
+                    "image":"small_thing_1st_floor.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 221593684,
+                    "image":"small_thing_2nd_floor.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 410433935,
+            "description": "Capital Insight",
+            "width": 396,
+            "height": 384,
+            "x": 560,
+            "y": 2158,
+            "floors": [
+                {
+                    "UUID": 260424688,
+                    "image":"capital_insight_1st_floor.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 122716998,
+                    "image":"capital_insight_2nd_floor.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 818184362,
+                    "image":"capital_insight_3rd_floor.png",
+                    "description": "3rd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 187350142,
+            "description": "TerraGroup",
+            "width": 252,
+            "height": 309,
+            "x": 1443,
+            "y": 936,
+            "floors": [
+                {
+                    "UUID": 200590593,
+                    "image":"terragroup_1st_floor.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 299870886,
+                    "image":"terragroup_2nd_floor.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 510905632,
+            "description": "Underground",
+            "width": 634,
+            "height": 1665,
+            "x": 548,
+            "y": 136,
+            "floors": [
+                {
+                    "UUID": 588553261,
+                    "image":"underground_ground_level.png",
+                    "active": true,
+                    "z_index": 9,
+                    "description": "Ground Level"
+                },
+                {
+                    "UUID": 181501563,
+                    "image":"underground.png",
+                    "z_index": 11,
+                    "description": "Parking"
+                }
+            ]
+        }
+    ]
+}

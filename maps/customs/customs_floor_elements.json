@@ -1,0 +1,144 @@
+{
+    "map": "Customs",
+    "version": "0.0.1",
+    "private": true,
+    "elements": [
+        {
+            "UUID": 133456,
+            "description": "Big Skeleton",
+            "width": 117,
+            "height": 242,
+            "x": 2123,
+            "y": 1446,
+            "rotation": -10.4,
+            "floors": [
+                {
+                    "UUID": 212315,
+                    "image":"customs_map_squeleton_1st_floor.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 134523, 
+                    "image":"customs_map_squeleton_2nd_floor.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 175617869,
+            "description": "Big Red",
+            "width": 26,
+            "height": 53,
+            "x": 629,
+            "y": 1431,
+            "rotation": 2,
+            "floors": [
+                {
+                    "UUID": 474217898,
+                    "image":"customs_map_bigred_1st_floor_clickable.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 63047711,
+                    "image":"customs_map_bigred_2nd_floor.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 285215938,
+            "description": "3 Story Dorms",
+            "width": 143,
+            "height": 207,
+            "x": 2062,
+            "y": 303,
+            "rotation": 6.03,
+            "floors": [
+                {
+                    "UUID": 355571920,
+                    "image":"customs_map_3story_1st_floor.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 401414546,
+                    "image":"customs_map_3story_2nd_floor.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 328121404,
+                    "image":"customs_map_3story_3rd_floor.png",
+                    "description": "3rd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 140334224,
+            "description": "2 Story Dorms",
+            "width": 67,
+            "height": 173,
+            "x": 2278,
+            "y": 385,
+            "rotation": 5.96,
+            "floors": [
+                {
+                    "UUID": 503881943,
+                    "image":"customs_map_2story_1st_floor.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 154482238,
+                    "image":"customs_map_2story_2nd_floor.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 657011203,
+            "description": "Mannequin",
+            "width": 90,
+            "height": 173,
+            "x": 3608,
+            "y": 1235,
+            "rotation": 8.34,
+            "floors": [
+                {
+                    "UUID": 152167227,
+                    "image":"customs_map_mannequin_building_1st_floor.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 371682236,
+                    "image":"customs_map_mannequin_building_2nd_floor.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        },
+        {
+            "UUID": 961684282,
+            "description": "Crack House",
+            "width": 67,
+            "height": 98,
+            "x": 1708,
+            "y": 1632,
+            "rotation": -12,
+            "floors": [
+                {
+                    "UUID": 88507624,
+                    "image":"customs_map_crackhouse_1st_floor.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 724935036,
+                    "image":"customs_map_crackhouse_2nd_floor.png",
+                    "description": "2nd Floor"
+                }
+            ]
+        }
+    ]
+}

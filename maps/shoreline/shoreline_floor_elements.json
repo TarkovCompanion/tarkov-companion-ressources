@@ -1,0 +1,103 @@
+{
+    "map": "Shoreline",
+    "version": "0.0.1",
+    "private": true,
+    "elements": [
+        {
+            "UUID": 392630574,
+            "description": "Admin",
+            "width": 174,
+            "height": 149,
+            "x": 2416,
+            "y": 783,
+            "floors": [
+
+                {
+                    "UUID": 399384078,
+                    "image":"shoreline-admin-1st-2.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 210172804,
+                    "image":"shoreline-admin-2nd-2.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 615569237,
+                    "image":"shoreline-admin-basement-1.png",
+                    "description": "Basement"
+                    
+                }
+            ]
+        },
+        {
+            "UUID": 692444370,
+            "description": "East Wing",
+            "width": 328,
+            "height": 123,
+            "x": 2558,
+            "y": 980,
+            "floors": [
+                {
+                    "UUID": 821872613,
+                    "image":"shoreline-east-1st-2.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 733935751,
+                    "image":"shoreline-east-2nd-2.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 256980328,
+                    "image":"shoreline-east-3rd-2.png",
+                    "description": "3rd Floor"
+                },
+                {
+                    "UUID": 2569235328,
+                    "image":"shoreline-east-roof-2.png",
+                    "description": "Roof"
+                }
+            ]
+        },
+        {
+            "UUID": 679612957,
+            "description": "West Wing",
+            "width": 349,
+            "height": 128,
+            "x": 2113,
+            "y": 975,
+            "floors": [
+
+                {
+                    "UUID": 727375822,
+                    "image":"shoreline-west-1st-2.png",
+                    "active": true,
+                    "description": "1st Floor"
+                },
+                {
+                    "UUID": 874568054,
+                    "image":"shoreline-west-2nd-2.png",
+                    "description": "2nd Floor"
+                },
+                {
+                    "UUID": 615938929,
+                    "image":"shoreline-west-3rd-2.png",
+                    "description": "3rd Floor"
+                },
+                {
+                    "UUID": 556938929,
+                    "image":"shoreline-west-roof-2.png",
+                    "description": "Roof"
+                },            
+                {
+                    "UUID": 430830261,
+                    "image":"shoreline-west-basement-2.png",
+                    "description": "Basement"
+                }
+            ]
+        }
+    ]
+}

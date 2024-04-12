@@ -12,3 +12,5 @@ The repo used information and assets from
 - https://github.com/the-hideout
 - https://hub.sp-tarkov.com/
 - https://github.com/Shebuka/tarkovdata
+
+For any special inquiries, please contact me directly at tarkovcompanionow@gmail.com

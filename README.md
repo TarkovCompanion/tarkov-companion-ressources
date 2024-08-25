@@ -9,39 +9,30 @@ Most of those assets and json have been taken from open-source projects and will
 
 Here is the map used that have been reworked
 
-- Customs map by monkimonkmonk:
-  https://www.reddit.com/r/EscapefromTarkov/comments/i1cxu6/version_2_updated_customs_map_for_127_with_loot
+- [Customs](https://www.reddit.com/r/EscapefromTarkov/comments/i1cxu6/version_2_updated_customs_map_for_127_with_loot) map by monkimonkmonk
 
-- Factory map by vinnydiehl:
-  https://github.com/vinnydiehl/tarkovraphy/tree/main/factory
+- [Factory](https://github.com/vinnydiehl/tarkovraphy/tree/main/factory) map by vinnydiehl
 
-- Ground Zero map by Shebuka: 
-  https://github.com/TarkovTracker/tarkovdata/blob/master/maps/GroundZero.svg
+- [Ground Zero](https://github.com/TarkovTracker/tarkovdata/blob/master/maps/GroundZero.svg) map by Shebuka
 
-- Interchange map by Shebuka:
-  https://github.com/TarkovTracker/tarkovdata/blob/master/maps/Interchange.svg
+- [Interchange](https://github.com/TarkovTracker/tarkovdata/blob/master/maps/Interchange.svg) map by Shebuka
 
-- Labs map by monkimonkmonk: 
-  https://www.reddit.com/r/EscapefromTarkov/comments/hu4su9/2d_map_for_labs_with_loot_and_callouts_more_links
+- [Labs](https://www.reddit.com/r/EscapefromTarkov/comments/hu4su9/2d_map_for_labs_with_loot_and_callouts_more_links) map by monkimonkmonk: 
 
-- Reserve map by Jindouz: 
-  https://drive.google.com/drive/folders/1XTqfN9_0dIpcWPBbue4Ee53Xk09AuatL
+- [Reserve](https://imgur.com/tKZmDXD) map by Jindouz
 
-- Shoreline map by monkimonkmonk:
-  https://www.reddit.com/r/EscapefromTarkov/comments/i64j06/shoreline_map_for_127_with_loot_caches_extracts
+- [Shoreline](https://www.reddit.com/r/EscapefromTarkov/comments/i64j06/shoreline_map_for_127_with_loot_caches_extracts) map by monkimonkmonk
 
-- Streets Of Tarkov map by Jindouz: 
-  https://www.reddit.com/r/EscapefromTarkov/comments/18zvpgx/streets_of_tarkov_v5_expansion_2_update
+- [Streets Of Tarkov](https://www.reddit.com/r/EscapefromTarkov/comments/18zvpgx/streets_of_tarkov_v5_expansion_2_update) map by Jindouz
 
-- Woods map by Jindouz: 
-  https://www.reddit.com/r/EscapefromTarkov/comments/kp491k/expanded_woods_map_v5_entirely_remade_to_match
+- [Woods](https://www.reddit.com/r/EscapefromTarkov/comments/kp491k/expanded_woods_map_v5_entirely_remade_to_match) map by Jindouz
 
 
 Here is the original Authors and their link
-- Jindouz https://www.reddit.com/user/Jindouz
-- Shebuka https://github.com/Shebuka
-- monkimonkmonk https://www.reddit.com/user/monkimonkimonk
-- vinnydiehl https://github.com/vinnydiehl
+- [Jindouz](https://www.reddit.com/user/Jindouz)
+- [Shebuka](https://github.com/Shebuka)
+- [monkimonkmonk](https://www.reddit.com/user/monkimonkimonk)
+- [vinnydiehl](https://github.com/vinnydiehl)
 
 The repo used information and assets from
 - https://github.com/RatScanner

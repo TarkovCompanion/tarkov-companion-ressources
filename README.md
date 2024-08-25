@@ -1,11 +1,7 @@
 # tarkov-companion-ressources
 This is all of the ressources used for Tarkov Companion App on Overwolf
 
-It includes all of the assets used by the app and is freely available to anyone that wants to use it
-
-This is open-source and anyone is welcomed to use these assets however they want and open a PR to change or add assets
-
-Most of those assets and json have been taken from open-source projects and will be linked below though, the JSON was entirely done by us
+This is open-source and anyone is welcomed to use these assets however they want and open a PR to change and/or add assets
 
 Here is the map used that have been reworked
 

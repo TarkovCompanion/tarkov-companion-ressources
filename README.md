@@ -13,7 +13,9 @@ Here is the map used that have been reworked
 
 - [Interchange](https://github.com/TarkovTracker/tarkovdata/blob/master/maps/Interchange.svg) map by Shebuka
 
-- [Labs](https://www.reddit.com/r/EscapefromTarkov/comments/hu4su9/2d_map_for_labs_with_loot_and_callouts_more_links) map by monkimonkmonk: 
+- [Labs](https://www.reddit.com/r/EscapefromTarkov/comments/hu4su9/2d_map_for_labs_with_loot_and_callouts_more_links) map by monkimonkmonk
+
+- [Lighthouse](https://github.com/TarkovTracker/tarkovdata/blob/master/maps/Lighthouse.svg) map by Shebuka
 
 - [Reserve](https://imgur.com/tKZmDXD) map by Jindouz
 
